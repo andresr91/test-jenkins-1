@@ -24,7 +24,7 @@ def call (body){
 
                 steps{
 
-                    mail bcc: '', body: 'prueba de jenkins', cc: '', from: '', replyTo: '', subject: 'jenkins-capa', to: 'aramirez@summan.com'
+                    mail bcc: '', body: 'prueba de jenkins', cc: '', from: '', replyTo: '', subject: 'jenkins-capa', to: 'segundasexposiciones@gmail.com'
                 
                 }
                 
